@@ -1,8 +1,9 @@
-# Calculator Application
+# Test Cases for Calculator Application - Task1(Prodigy InfoTech)s
 
 ✅ **Internship Task** – Software Testing \
 🏢 **Company**: Prodigy InfoTech  
-📄 **Project Title**: Test Cases for calculator Application
+📄 **Project Title**: Test Cases for calculator Application\
+🔗**Calculator Application**: <https://dunizb.github.io/sCalc/>
 
 ---
 
@@ -374,3 +375,9 @@
 4. Press "="
 
 **Expected Result:** No response when tried to enter non numeric characters
+
+
+---
+
+### 🔗**Project Demo**
+📂 **GitHub**: <https://github.com/nswapna-g19/Test-Cases_calculator-app>
