@@ -1,4 +1,4 @@
-# Test Cases for Calculator Application - Task1(Prodigy InfoTech)s
+# Test Cases for Calculator Application - Task1(Prodigy InfoTech)
 
 ✅ **Internship Task** – Software Testing \
 🏢 **Company**: Prodigy InfoTech  
